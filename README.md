@@ -5,7 +5,7 @@ This iOS Shortcut app detects the music playing in the background, and offers th
 - Search for lyrics for the track on AzLyrics.com 
 
 # Installation
-Click this link on your iOS device to install v1.0 : [icloud link](https://www.icloud.com/shortcuts/d711a98ccac44310a49895c62c502228) 
+Click [this icloud link](https://www.icloud.com/shortcuts/d711a98ccac44310a49895c62c502228) on your iOS device to install Detect Playing Music V1.0:  
 The Shortcut can be viewed on [showcuts.app](https://showcuts.app/share/view/d711a98ccac44310a49895c62c502228) 
 
 ## Steps to Install the shortcut:
@@ -19,5 +19,3 @@ The Shortcut can be viewed on [showcuts.app](https://showcuts.app/share/view/d71
 - Notifications
 - Access to website http://song.link (to fetch Media links)
 - Access to run shortcuts (to re-invoke itself for retry)
-
-
